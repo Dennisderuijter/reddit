@@ -1,0 +1,15 @@
+header {
+	padding: 20px;
+	background-color: #DDDDFF;
+	display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+header .user {
+	float: left;
+}
+
+header .index {
+	float: right;
+}
